@@ -1,4 +1,7 @@
-# EtherEver-BlockScout6
+# EtherEver-BlockScout7
+
+logo 업데이트함. 블록스카우트 도커이미지 특성상 png를 온라인링크에서 따와야함
+
 force fix SSL : ws->wss
 
 
