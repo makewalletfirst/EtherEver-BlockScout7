@@ -21,7 +21,10 @@ window.__envs = {
   NEXT_PUBLIC_IS_TESTNET: "false",
   NEXT_PUBLIC_NETWORK_SHORT_NAME: "Awesome chain",
 
-  // === [최종 적용: 이더에버 공식 깃허브 로고 URL] ===
+  // === [메인 로고 (가로로 긴 이미지)] ===
   NEXT_PUBLIC_NETWORK_LOGO: "https://raw.githubusercontent.com/makewalletfirst/image/main/etherever/etherever-logo.png",
-  NEXT_PUBLIC_NETWORK_LOGO_DARK: "https://raw.githubusercontent.com/makewalletfirst/image/main/etherever/etherever-logo.png"
+  NEXT_PUBLIC_NETWORK_LOGO_DARK: "https://raw.githubusercontent.com/makewalletfirst/image/main/etherever/etherever-logo.png",
+  // === [접힌 메뉴 & 탭 아이콘 (정사각형 이미지 권장)] ===
+  NEXT_PUBLIC_NETWORK_ICON: "https://raw.githubusercontent.com/makewalletfirst/image/main/etherever/etherever-logo.png",
+  NEXT_PUBLIC_NETWORK_ICON_DARK: "https://raw.githubusercontent.com/makewalletfirst/image/main/etherever/etherever-logo.png"
 }

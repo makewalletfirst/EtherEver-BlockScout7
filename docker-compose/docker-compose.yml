@@ -104,10 +104,10 @@ services:
       NEXT_PUBLIC_STATS_API_HOST: 'http://163.239.27.33:4552/stats_api'
       API_URL: 'http://backend:4000'
       STATS_API_URL: 'http://stats:8050'
-      # === [메인 로고] ===
+      # === [메인 로고 (가로로 긴 이미지)] ===
       NEXT_PUBLIC_NETWORK_LOGO: 'https://raw.githubusercontent.com/makewalletfirst/image/main/etherever/etherever-logo.png'
       NEXT_PUBLIC_NETWORK_LOGO_DARK: 'https://raw.githubusercontent.com/makewalletfirst/image/main/etherever/etherever-logo.png'
-      # === [추가됨: 탭 아이콘 (파비콘)] ===
+      # === [접힌 메뉴 & 탭 아이콘 (정사각형 이미지 권장)] ===
       NEXT_PUBLIC_NETWORK_ICON: 'https://raw.githubusercontent.com/makewalletfirst/image/main/etherever/etherever-logo.png'
       NEXT_PUBLIC_NETWORK_ICON_DARK: 'https://raw.githubusercontent.com/makewalletfirst/image/main/etherever/etherever-logo.png'
     volumes:
