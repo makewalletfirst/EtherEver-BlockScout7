@@ -1,6 +1,14 @@
 # EtherEver-BlockScout7
 
 logo 업데이트함. 블록스카우트 도커이미지 특성상 png를 온라인링크에서 따와야함
+트랜잭션 업뎃수 update_sh를 통해 pm2로 관리해서 반영(그래프는 아직)
+pm2 start update_stats.sh --interpreter bash --name update-stats
+
+
+
+
+<br>
+<br>
 
 force fix SSL : ws->wss
 
